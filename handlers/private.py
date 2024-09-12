@@ -21,10 +21,10 @@ async def start(_, message: Message):
         [
             [
                 InlineKeyboardButton(
-                    "Group 💬", url="https://t.me/Its_Fuckin_Hell"
+                    "Father 💬", url="https://t.me/abhinasroy"
                 ),
                 InlineKeyboardButton(
-                    "Channel 📣", url="https://t.me/The_HellBot"
+                    "Group 📣", url="https://t.me/DOSTI_GROUP_1234"
                 )
             ]
         ]
@@ -48,13 +48,13 @@ Happy Streaming 😉
             [
                 [
                     InlineKeyboardButton(
-                        "Repo 📑", url="https://github.com/TheVaders/vc_bot"
+                        "Repo 📑", url="https://github.com/roymusicplay/vc_bot"
                     ),
                     InlineKeyboardButton(
-                        "Channel 📣", url="https://t.me/The_HellBot"
+                        "Group 📣", url="https://t.me/DOSTI_GROUP_1234"
                     ),
                     InlineKeyboardButton (
-                        "Tutorial 🎬", url="https://youtu.be/XaH7VHURBVg"
+                        "Father 🎬", url="https://t.me/abhinasroy"
                     )
                 ]
             ]
@@ -64,9 +64,9 @@ Happy Streaming 😉
 
 @Client.on_message(command("ping") & other_filters)
 async def ping(_, message: Message):
-    hell_pic = PLAY_PIC
+    Abhinas_pic = PLAY_PIC
     await message.reply_photo(
-    photo=hell_pic,
+    photo=Abhinas_pic,
     caption="I'm Alive and working fine. Do /help to get commands.\n\nHappy Streaming Music 😉",
 )
 

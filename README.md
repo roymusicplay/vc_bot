@@ -1,7 +1,8 @@
+ Baap Abhinas roy 😈👉@abhinasroy
 <h1 align="centre">🎶 Music Bot 🎶</h1>
 
 ## Requirements 📝
-
+😁😁😁😁😁😁😁
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+

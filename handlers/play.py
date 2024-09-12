@@ -27,7 +27,7 @@ async def play(_, message: Message):
     lel = await message.reply(f"**{bn} :-** 🔄 Processing...")
     sender_id = message.from_user.id
     sender_name = message.from_user.first_name
-    hell_pic = PLAY_PIC
+    Abhinaa_pic = PLAY_PIC
 
     keyboard = InlineKeyboardMarkup(
             [
